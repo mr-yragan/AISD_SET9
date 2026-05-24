@@ -1,2 +1,3 @@
 # AISD_SET9
-<img width="1198" height="540" alt="image" src="https://github.com/user-attachments/assets/75a4f230-c75b-4beb-9538-567496fa808f" />
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/67b3fa90-c193-4347-9d90-ba9ad5bde44c" />
+
